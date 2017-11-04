@@ -1,2 +1,2 @@
 # legendary-chainsaw
-Angular CLI
+Vue CLI
